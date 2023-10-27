@@ -1,0 +1,12 @@
+{
+  "modid": "universalsettings",
+  "name": "Universal Settings",
+  "author_list": ["PinaColada"],
+  "description": "Use a single settings file for all save slots.",
+  "credits" : "",
+  "version": "1",
+  "sts_version": "10-04-2022",
+  "mts_version": "3.30.0",
+  "dependencies": [],
+  "update_json": ""
+}
